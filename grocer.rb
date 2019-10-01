@@ -13,8 +13,8 @@ end
 p newcart 
 end
 
-def apply_coupons(cart, coupons)
-  # code here
+def apply_coupons(cart, coupons) 
+  
 end
 
 def apply_clearance(cart)
