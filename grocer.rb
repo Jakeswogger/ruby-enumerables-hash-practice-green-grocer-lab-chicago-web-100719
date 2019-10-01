@@ -17,6 +17,7 @@ def apply_coupons(cart, coupons)
   better_hash = {}
   cart.each |food, stuff|
   
+  
 end
 
 def apply_clearance(cart)
