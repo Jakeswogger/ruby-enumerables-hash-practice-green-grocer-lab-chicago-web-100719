@@ -18,7 +18,7 @@ def apply_coupons(cart, coupons)
   cart.each |food, stuff|
  
   if coupons.has? food 
-    better_hash = cart[]
+    
   end
   
 end
