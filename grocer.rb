@@ -14,6 +14,8 @@ p newcart
 end
 
 def apply_coupons(cart, coupons) 
+  better_hash = {}
+  cart.each |food, stuff|
   
 end
 
